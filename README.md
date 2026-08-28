@@ -4,9 +4,18 @@ Hi i'm topojinn.
 I'm a python programmer who's currently working on a lot of stuff written in python.
 
 ### Main/actual projects:  
--placeholder
+- [**AUTOWRITE**](https://github.com/topojinn/autowrite)  
+  second try to automate the writing in python
 
-Team: [ZALEN GAMES](https://flowlab.io/dev_teams/view/11726)
+- [**.MATH**](https://github.com/topojinn/.math)  
+  full math. haxe codes guide
+
+- [**TURTLER**](https://github.com/topojinn/turtler)  
+  turtle moves everywhere!!!
+
+- [**CDREAD**](https://github.com/topojinn/cdread)  
+  a python reader to read CDs!  
+
 
 <!--
 unused text:
@@ -25,6 +34,7 @@ Here are some ideas to get you started:
 
 🔥 14th regular user now
 
+Team: [ZALEN GAMES](https://flowlab.io/dev_teams/view/11726)
 
 ### Other links:
 [newgrounds](https://topojinn.newgrounds.com)  
