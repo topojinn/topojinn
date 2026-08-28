@@ -8,11 +8,8 @@ I'm a python programmer who's currently working on a lot of stuff written in pyt
 
 Team: [ZALEN GAMES](https://flowlab.io/dev_teams/view/11726)
 
-### Other links:
-[newgrounds](https://topojinn.newgrounds.com)  
-[flowlab community](https://community.flolwab.io/u/topojinn.game/summary)
-
 <!--
+unused text:
 **topojinn/topojinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,5 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 🔥 14th regular user now
+
+
+### Other links:
+[newgrounds](https://topojinn.newgrounds.com)  
+[flowlab community](https://community.flolwab.io/u/topojinn.game/summary)
 -->
 
