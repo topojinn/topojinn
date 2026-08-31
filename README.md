@@ -7,7 +7,7 @@ I'm a python programmer who's currently working on a lot of stuff written in pyt
 - [**AUTOWRITE**](https://github.com/topojinn/autowrite)  
   second try to automate the writing in python
 
-- [**WEATHER**](https://github.com/topojinn/weather)
+- [**WEATHER**](https://github.com/topojinn/weather)  
   a python script to read the Weather!
 
 - [**.MATH**](https://github.com/topojinn/.math)  
