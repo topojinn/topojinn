@@ -2,6 +2,10 @@
 
 Hi i'm topojinn.  
 I'm a python programmer who's currently working on a lot of stuff written in python.
+<!--
+unused text:
+**topojinn/topojinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### Main/actual projects:  
 - [**AUTOWRITE**](https://github.com/topojinn/autowrite)  
@@ -19,9 +23,6 @@ I'm a python programmer who's currently working on a lot of stuff written in pyt
 - [**CDREAD**](https://github.com/topojinn/cdread)  
   a python reader to read CDs!  
 
-<!--
-unused text:
-**topojinn/topojinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
