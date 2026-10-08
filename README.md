@@ -1,8 +1,12 @@
 ## TOPOJINN!!!
 
 Hi i'm topojinn.  
-I'm a python programmer who's currently working on a lot of stuff written in python.
+I'm a python programmer who's currently working on a lot of stuff written in python.  
+
+I'm also learning haxe!
+
 <!--
+https://discord.gg/UK7TacmKRu
 unused text:
 **topojinn/topojinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
