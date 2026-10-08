@@ -4,7 +4,7 @@ Hi i'm topojinn.
 I'm a python programmer who's currently working on a lot of stuff written in python.  
 
 I'm also learning haxe!
-If you want to contact me, or maybe just say hello, [join my Discord server!]([https://discord.gg/UK7TacmKRu])  
+If you want to contact me, or maybe just say hello, [join my Discord server!](https://discord.gg/UK7TacmKRu)  
 <!--
 unused text:
 **topojinn/topojinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
